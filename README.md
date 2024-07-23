@@ -10,7 +10,7 @@ Android Engineer and Tech Manager with 7 years of experience in mobile developme
 
 ##### 👨‍💻 Stats
 
-[![Top Langs](https://github-readme-stats-eight-lemon-33.vercel.app/api/top-langs/?username=ayer-ribeiro&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-eight-lemon-33.vercel.app/api/top-langs/?username=ayer-ribeiro&layout=donut&theme=transparent)](https://github.com/ayer-ribeiro)
 
 ##### 📌 Pinned
 
