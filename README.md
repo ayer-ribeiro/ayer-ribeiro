@@ -23,19 +23,19 @@ Android Engineer and Tech Manager with 7 years of experience in mobile developme
 
 ##### 💡️ Technologies
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![KMP](https://img.shields.io/badge/KMP-8A2BE2?logo=kotlin&style=for-the-badge&logoColor=white)
-
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-8A2BE2?logo=kotlin&style=flat-square&logoColor=white)
 
 
 ##### 📪️ Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayer-ribeiro/)
-[![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayerribeiro)
+[![Stackoverflow](https://img.shields.io/badge/8285157/ayer–ribeiro-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8285157/ayer-ribeiro/)
+[![LinkedIn](https://img.shields.io/badge/ayer–ribeiro-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayer-ribeiro/)
+[![Medium](https://img.shields.io/badge/@ayerribeiro-%23000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ayerribeiro)
 
 <!--
 **ayer-ribeiro/ayer-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
