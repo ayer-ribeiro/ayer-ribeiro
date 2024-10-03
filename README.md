@@ -6,7 +6,7 @@ Android Engineer and Tech Manager with 7 years of experience in mobile developme
 
 - :brazil: Brazillian (Serra / ES)
 - :man_student: Computer Engineer at [Una](https://www.una.br/)
-- :man_technologist: Software Engineer at [@GetAmbush](https://www.getambush.com/)
+- :man_technologist: Android Engineer at [Ambush](https://www.getambush.com/)
 
 ##### 👨‍💻 Stats
 
