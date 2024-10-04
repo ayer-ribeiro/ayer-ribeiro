@@ -14,10 +14,10 @@ Android Engineer and Tech Manager with 7 years of experience in mobile developme
 
 ##### 📌 Pinned
 
-<a href="https://gist.github.com/ayer-ribeiro/de19d6d0b9899c3b375e090031b4ff28/">
+<a href="https://gist.github.com/ayer-ribeiro/de19d6d0b9899c3b375e090031b4ff28/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28&theme=transparent" />
 </a>
-<a href="https://github.com/ayer-ribeiro/gradle-diff-ready">
+<a href="https://github.com/ayer-ribeiro/gradle-diff-ready" target="_blank">
   <img align="center" src=https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready&theme=transparent" />
 </a>
 
