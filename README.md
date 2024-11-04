@@ -30,17 +30,19 @@ I’m an Android engineer with almost 8 years in mobile development. I've led ma
 
 ##### 👨‍💻 Stats
 
-[![Top Langs](https://github-readme-stats-eight-lemon-33.vercel.app/api/top-langs/?username=ayer-ribeiro&layout=donut&theme=transparent)](https://github.com/ayer-ribeiro)
+[![Top Langs](https://github-readme-stats-eight-lemon-33.vercel.app/api/top-langs/?username=ayer-ribeiro&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/ayer-ribeiro#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats-eight-lemon-33.vercel.app/api/top-langs/?username=ayer-ribeiro&layout=donut&theme=default#gh-light-mode-only)](https://github.com/ayer-ribeiro#gh-light-mode-only)
 
 ##### 📌 Pinned
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28\&show_icons=true\&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28)
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/ayer-ribeiro/gradle-diff-ready)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/ayer-ribeiro/gradle-diff-ready)
+[![Ayer's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28#gh-dark-mode-only)
+[![Ayer's GitHub stats-Light](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28\&show_icons=true\&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28#gh-light-mode-only)
+[![Gradle Diff Repo-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/ayer-ribeiro/gradle-diff-ready#gh-dark-mode-only)
+[![Gradle Diff Repo-Light](https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/ayer-ribeiro/gradle-diff-ready#gh-light-mode-only)
+[![Flow Values Gist-Dark](https://github-readme-stats.vercel.app/api/gist?id=04c1d4205e8a94b914ce5fc01fcb7b2c\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=04c1d4205e8a94b914ce5fc01fcb7b2c#gh-dark-mode-only)
+[![Flow Values Gist-Light](https://github-readme-stats.vercel.app/api/gist?id=04c1d4205e8a94b914ce5fc01fcb7b2c\&show_icons=true\&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=04c1d4205e8a94b914ce5fc01fcb7b2c#gh-light-mode-only)
+[![Test Shell Script Gist-Dark](https://github-readme-stats.vercel.app/api/gist?id=cbff40481fb7b27807a7bc3e9c41246d\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=cbff40481fb7b27807a7bc3e9c41246d#gh-dark-mode-only)
+[![Test Shell Script Gist-Light](https://github-readme-stats.vercel.app/api/gist?id=cbff40481fb7b27807a7bc3e9c41246d\&show_icons=true\&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=cbff40481fb7b27807a7bc3e9c41246d#gh-light-mode-only)
 
 <!--
 **ayer-ribeiro/ayer-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
