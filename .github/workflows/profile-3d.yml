@@ -26,6 +26,7 @@ jobs:
           git config --global credential.helper 'cache --timeout=120'
           git config user.name ayer-ribeiro
           git config user.email ayerrsn2@gmail.com
+          git remote -v
           git add -A .
           git commit -m "update 3D profile contrib image"
           git push
