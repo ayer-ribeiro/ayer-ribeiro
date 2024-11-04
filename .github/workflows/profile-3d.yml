@@ -23,6 +23,7 @@ jobs:
           echo "login your_username" >> ~/.netrc
           echo "password $GITHUB_COMMIT_TOKEN" >> ~/.netrc
           chmod 600 ~/.netrc
+          cat ~/.netrc
           git config --global credential.helper 'cache --timeout=120'
           git config user.name ayer-ribeiro
           git config user.email ayerrsn2@gmail.com
