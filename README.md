@@ -34,12 +34,13 @@ I’m an Android engineer with almost 8 years in mobile development. I've led ma
 
 ##### 📌 Pinned
 
-<a href="https://gist.github.com/ayer-ribeiro/de19d6d0b9899c3b375e090031b4ff28/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28&theme=transparent" />
-</a>
-<a href="https://github.com/ayer-ribeiro/gradle-diff-ready" target="_blank">
-  <img align="center" src=https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready&theme=transparent" />
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28\&show_icons=true\&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/gist?id=de19d6d0b9899c3b375e090031b4ff28)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/ayer-ribeiro/gradle-diff-ready)
+
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/ayer-ribeiro/gradle-diff-ready)
 
 <!--
 **ayer-ribeiro/ayer-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
