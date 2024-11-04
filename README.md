@@ -1,12 +1,32 @@
-# Hi there! 👋
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![KMP](https://img.shields.io/badge/KMP-8A2BE2?logo=kotlin&style=flat-square&logoColor=white)
 
-Android Engineer and Tech Manager with 7 years of experience in mobile development.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ayer Ribeiro de Souza Netto
+===================================================================================================================================================
 
-##### 👤 About
+Senior Android Engineer
+-----------------------
 
-- :brazil: Brazillian (Serra / ES)
-- :man_student: Computer Engineer at [Una](https://www.una.br/)
-- :man_technologist: Android Engineer at [Ambush](https://www.getambush.com/)
+I’m an Android engineer with almost 8 years in mobile development. I've led major projects and helped deliver apps that earned top ratings, including a 4.8 out of 5 score recognized in Google’s Android Excellence Apps program. My background includes roles at Ambush, Stone, Biscuit, Letras and Studio Sol, where I developed and optimized Android apps using Kotlin, Java, and Clean Architecture. I also specialize in streamlining processes and automating workflows to boost productivity and code quality.
+
+* 🌍  I'm based in Brasil
+* 🖥️  See my website at [ayer.dev](http://ayer.dev)
+* ✉️  You can contact me at [contact@ayer.dev](mailto:contact@ayer.dev)
+* 🚀  I'm currently working on [Ambush](http://www.getambush.com/)
+
+### Skills
+
+<p align="left">
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ayer-ribeiro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ayer-ribeiro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/ayerribeiro" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/8285157" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
 
 ##### 👨‍💻 Stats
 
@@ -20,22 +40,6 @@ Android Engineer and Tech Manager with 7 years of experience in mobile developme
 <a href="https://github.com/ayer-ribeiro/gradle-diff-ready" target="_blank">
   <img align="center" src=https://github-readme-stats.vercel.app/api/pin/?username=ayer-ribeiro&repo=gradle-diff-ready&theme=transparent" />
 </a>
-
-##### 💡️ Technologies
-
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![KMP](https://img.shields.io/badge/KMP-8A2BE2?logo=kotlin&style=flat-square&logoColor=white)
-
-
-##### 📪️ Contact
-
-[![Stackoverflow](https://img.shields.io/badge/8285157/ayer–ribeiro-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/8285157/ayer-ribeiro/)
-[![LinkedIn](https://img.shields.io/badge/ayer–ribeiro-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayer-ribeiro/)
-[![Medium](https://img.shields.io/badge/@ayerribeiro-%23000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ayerribeiro)
 
 <!--
 **ayer-ribeiro/ayer-ribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
