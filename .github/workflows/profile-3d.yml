@@ -20,7 +20,7 @@ jobs:
       - name: Commit & Push
         run: |
           echo "machine github.com" > ~/.netrc
-          echo "login your_username" >> ~/.netrc
+          echo "login ayer-ribeiro" >> ~/.netrc
           echo "password $GITHUB_COMMIT_TOKEN" >> ~/.netrc
           chmod 600 ~/.netrc
           cat ~/.netrc
