@@ -19,19 +19,19 @@ jobs:
           SETTINGS: "profile-3d-contrib/settings.json"
       - name: Commit & Push
         run: |
-          #echo "machine github.com" > ~/.netrc
-          #echo "login ayer-ribeiro" >> ~/.netrc
-          #echo "password $GITHUB_COMMIT_TOKEN" >> ~/.netrc
-          #chmod 600 ~/.netrc
-          #cat ~/.netrc
-          #git remote set-url origin https://github.com/ayer-ribeiro/ayer-ribeiro.git
-          #git config --global credential.helper 'cache --timeout=120'
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          #git config user.name ayer-ribeiro
-          #git config user.email ayerrsn2@gmail.com
-          #git remote -v
+          echo "machine github.com" > ~/.netrc
+          echo "login ayer-ribeiro" >> ~/.netrc
+          echo "password $GITHUB_COMMIT_TOKEN" >> ~/.netrc
+          chmod 600 ~/.netrc
+          cat ~/.netrc
+          git remote set-url origin https://github.com/ayer-ribeiro/ayer-ribeiro.git
+          git config --global credential.helper 'cache --timeout=120'
+          #git config user.name github-actions
+          #git config user.email github-actions@github.com
+          git config user.name ayer-ribeiro
+          git config user.email ayerrsn2@gmail.com
+          git remote -v
           git add -A .
           git commit -m "update 3D profile contrib image"
           git push
-          #rm ~/.netrc
+          rm ~/.netrc
