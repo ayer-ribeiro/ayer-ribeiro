@@ -12,9 +12,9 @@
 I’m an Android engineer with almost 8 years in mobile development. I've led major projects and helped deliver apps that earned top ratings, including a 4.8 out of 5 score recognized in Google’s Android Excellence Apps program. My background includes roles at Ambush, Stone, Biscuit, Letras and Studio Sol, where I developed and optimized Android apps using Kotlin, Java, and Clean Architecture. I also specialize in streamlining processes and automating workflows to boost productivity and code quality.
 
 * 🌍  I'm based in Brasil
-* 🖥️  See my website at [ayer.dev](http://ayer.dev)
-* ✉️  You can contact me at [contact@ayer.dev](mailto:contact@ayer.dev)
-* 🚀  I'm currently working on [Ambush](http://www.getambush.com/)
+* 🖥️  See my website at <a href="https://ayer.dev" target="_blank">ayer.dev</a>
+* ✉️  You can contact me at <a href="mailto:contact@ayer.dev" target="_blank">contact@ayer.dev</a>
+* 🚀  I'm currently working on <a href="https://www.getambush.com/" target="_blank">Ambush</a>
 
 ##### 🛠️ Skills
 
