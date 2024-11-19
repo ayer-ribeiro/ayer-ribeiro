@@ -13,6 +13,7 @@ I’m an Android engineer with almost 8 years in mobile development. I've led ma
 
 * 🌍  I'm based in Brasil
 * 🖥️  See my website at <a href="https://ayer.dev" target="_blank">ayer.dev</a>
+* ▶️  See my <a href="https://play.google.com/store/apps/dev?id=8225991646800285512" target="_blank">Google Play Console Developer Page.</a>
 * ✉️  You can contact me at <a href="mailto:contact@ayer.dev" target="_blank">contact@ayer.dev</a>
 * 🚀  I'm currently working on <a href="https://www.getambush.com/" target="_blank">Ambush</a>
 
